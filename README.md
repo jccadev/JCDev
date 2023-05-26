@@ -6,7 +6,7 @@ Visit our website: [jcdevelopment.web.app](https://jcdevelopment.web.app) to exp
 
 ### Our App: Dev Ai
 
-![Dev Ai](https://example.com/dev-ai-screenshot.png)
+![Dev Ai](https://jcdevelopment.web.app/Logo.png)
 
 [Dev Ai](https://example.com/dev-ai) is our cutting-edge application built to empower developers with advanced artificial intelligence capabilities. Whether you're looking for code suggestions, smart debugging, or automated testing, Dev Ai has got you covered! It leverages the latest advancements in AI to enhance your coding experience.
 
