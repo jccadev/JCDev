@@ -6,9 +6,9 @@ Visit our website: [jcdevelopment.web.app](https://jcdevelopment.web.app) to exp
 
 ### Our App: Dev Ai
 
-![Dev Ai](https://jcdevelopment.web.app/Logo.png)
+[![Dev Ai](https://example.com/dev-ai-screenshot.png)](https://example.com/dev-ai)
 
-[Dev Ai](https://example.com/dev-ai) is our cutting-edge application built to empower developers with advanced artificial intelligence capabilities. Whether you're looking for code suggestions, smart debugging, or automated testing, Dev Ai has got you covered! It leverages the latest advancements in AI to enhance your coding experience.
+Dev Ai is our cutting-edge application built to empower developers with advanced artificial intelligence capabilities. Whether you're looking for code suggestions, smart debugging, or automated testing, Dev Ai has got you covered! It leverages the latest advancements in AI to enhance your coding experience.
 
 ### Firebase and SwiftUI
 
@@ -23,3 +23,5 @@ Join us on our development journey as we build the future of software together!
 Contact us at [info@jcdevelopment.web.app](mailto:info@jcdevelopment.web.app) for inquiries or to discuss your project requirements.
 
 > "Innovation distinguishes between a leader and a follower." - Steve Jobs
+
+**Download the Dev Ai Screenshot:** [Download](https://example.com/dev-ai-screenshot.png)
